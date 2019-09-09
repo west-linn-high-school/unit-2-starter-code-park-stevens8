@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Test here.
+ * Write a description of class Test here. Test
  *
  * @author (your name)
  * @version (a version number or a date)
